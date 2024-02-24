@@ -1,4 +1,4 @@
-#ChatBot [React-Firebase]
+# ChatBot [React-Firebase]
    This project is designed for friendly and colleague chats.
 
 ![Screenshot from 2024-02-24 10-08-38](https://github.com/Kalaivani-selvi/niki-chat-firebase1/assets/131773154/9d259b89-f992-46c6-ae54-4efb5d13f2d9)

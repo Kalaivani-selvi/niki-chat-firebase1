@@ -5,5 +5,4 @@
 ![Screenshot from 2024-02-24 10-08-38](https://github.com/Kalaivani-selvi/niki-chat-firebase1/assets/131773154/9d259b89-f992-46c6-ae54-4efb5d13f2d9)
 
 
-https://github.com/Kalaivani-selvi/niki-chat-firebase1/assets/131773154/58dadd88-01cf-4840-87f5-3e9f99df8e00
 
